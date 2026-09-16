@@ -1,2 +1,2 @@
-# parot-stats
-Corpus analysis demo
+# Parot Stats
+Coming soon.
